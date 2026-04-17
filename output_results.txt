@@ -1,0 +1,987 @@
+SCHOOL DATA EXTRACTION REPORT - 2026-04-17 18:05:46.419392
+------------------------------------------------------------
+
+============================================================
+SCHOOL NAME: 
+WEBSITE: https://stpaulsschool.org.uk
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: St Paul’s Girls’ School
+WEBSITE: https://spgs.org
+============================================================
+Ages: 7–18 | Founded: 2022 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ST PAUL’S GIRLS’ SCHOOL]
+The following policies and reports are also available in hard copy from the school office. Parents and prospective parents may request the following policies by contacting the school office. Telephone
+						020 7603 2288
+
+						Email
+						frontoffice@spgs.org
+
+													Admissions
+							admissions@spgs.org
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+While academic achievement is only one facet of St Paul’s life, we are nevertheless extremely proud of our students’ exam results and university destinations. They are indicators of the intellectual freedom and discovery that characterise the academic environment and which aid transition to university study. var universityDestinationsData = [{"year":"2025","repeater":[{"location":"Cambridge","number":"24"},{"location":"Oxford","number":"24"},{"location":"American universities","number":"14"},{"location":"Imperial","number":"7"},{"location":"Edinburgh","number":"6"},{"location":"UCL","number":"5"},{"location":"Durham","number":"4"},{"location":"Bristol","number":"3"},{"location":"KCL","number":"3"},{"location":"LSE","number":"3"},{"location":"Manchester","number":"3"},{"location":"St Andrews","number":"2"},{"location":"European\/Asian universities","number":"1"},{"location":"European universities","number":"1"},{"location":"Exeter","number":"1"},{"location":"Newcastle","number":"1"},{"l
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: We are driven by curiosity and are free to explore ideas in an atmosphere of active academic enquiry. We enjoy the scope to be creative and develop our skills in the pursuit of knowledge. Thought-provoking tasks stimulate the imagination and inspire us to further exploration, whether through attendi...
+- Student Wellbeing: St Paul’s Girls’ School is an extraordinary school, offering a classical yet forward-thinking education. A shared love of academic discovery is enriched by broad co-curricular provision, the kindest and most individual of pastoral care and a commitment to partnerships and service to others. Our past...
+- Academic Integration: St Paul’s Girls’ School is an extraordinary school, offering a classical yet forward-thinking education. A shared love of academic discovery is enriched by broad co-curricular provision, the kindest and most individual of pastoral care and a commitment to partnerships and service to others. A networ...
+- Competitive Pathway: Mrs Munro’s development project was launched. The development included refurbishments and improvements to many parts of school, including a common room for the Senior School, a new geography wing, language laboratory, art studios, another dining room, an improved staff room and a new swimming pool. ...
+- Facilities & Resources: Ours is a liberal community that allows a person to be themselves. Individuality is celebrated through our freedom of dress, opinion and activity. We develop supportive friendships whilst exploring our own identities. Through the Head of School Team and societies such as the St Paul’s Environmental ...
+- Ongoing Accountability: Since St Paul’s first opened its doors in 1904, the school has provided an ambitious, progressive education for generations of talented young women. At all stages throughout its history, the school has combined the best elements of a classical education with a commitment to innovation and a forward-...
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: 
+WEBSITE: https://westminster.org.uk
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: Welcome to Thomas's
+WEBSITE: https://thomas-s.co.uk
+============================================================
+Ages: o | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT WELCOME TO THOMAS'S]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Information not explicitly found on the site....
+- Student Wellbeing: Information not explicitly found on the site....
+- Academic Integration: Information not explicitly found on the site....
+- Competitive Pathway: Information not explicitly found on the site....
+- Facilities & Resources: Information not explicitly found on the site....
+- Ongoing Accountability: Information not explicitly found on the site....
+
+[IMAGES FOUND: 8]
+1. https://cdn.thomas-s.co.uk/wp-content/uploads/2025/11/Y789_Our-Journey-Broadens.jpg
+2. https://cdn.thomas-s.co.uk/wp-content/uploads/2025/11/Year-3-Year-4-Year-5-Our-Journey-Develops.jpg
+3. https://cdn.thomas-s.co.uk/wp-content/uploads/2025/11/Y11-13_Our-Journey-Takes-Flight.jpg
+4. https://cdn.thomas-s.co.uk/wp-content/uploads/2022/11/B_Back-to-school_2021_497x643.jpg
+5. https://cdn.thomas-s.co.uk/wp-content/uploads/2025/11/Year6-Our-Journey-expands.jpg
+6. https://cdn.thomas-s.co.uk/wp-content/uploads/2025/11/Reception-Y1-and-Y2.Our-Journey-Begins.jpg
+7. https://cdn.thomas-s.co.uk/wp-content/uploads/2025/11/K-All-First-Day-New-Building-11-25-AM-005-scaled.jpg
+8. https://cdn.thomas-s.co.uk/wp-content/uploads/2025/11/Y10-Our-Journey-Deepens.jpg
+
+============================================================
+
+============================================================
+SCHOOL NAME: The Gold Standard in Pre-Prep Education in London
+WEBSITE: https://wetherbyschool.co.uk
+============================================================
+Ages: 3–11 | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT THE GOLD STANDARD IN PRE-PREP EDUCATION IN LONDON]
+Inspiring Excellence with an Ambitious, All-Rounded Education Wetherby School is part of Inspired Education, a leading global group of premium private schools with 95,000+ students across 6 continents. As an Inspired School, we are committed to developing our boys’ full potential by helping them achieve excellent academic results and delivering various exciting learning experiences. Cutting-edge teaching and learning provision, superb facilities and access to a global community are merely a handful of the guaranteed benefits that come with being part of Inspired Education. Our young learners harness these regularly and, in doing so, become confident, independent, multi-skilled individuals. Exceptional outcomes are integral to Inspired’s philosophy, which extends beyond the confines of traditional academia. From Reception to Year 3, we support boys with a holistic, innovative school experience premised on the three Pillars of an Inspired Education: Academics, Sport, and Performing & Cre
+
+[PHILOSOPHY & ETHOS]
+Wetherby School is part of Inspired Education, a leading global group of premium private schools with 95,000+ students across 6 continents. As an Inspired School, we are committed to developing our boys’ full potential by helping them achieve excellent academic results and delivering various exciting learning experiences. Cutting-edge teaching and learning provision, superb facilities and access to a global community are merely a handful of the guaranteed benefits that come with being part of Inspired Education. Our young learners harness these regularly and, in doing so, become confident, independent, multi-skilled individuals. High-quality academic provision is central to an education at all Inspired schools. Through active engagement in the learning process, children are taught to think critically and gain increased confidence in their own abilities and a thirst for knowledge. Achievement in academics provides learners with a path to future opportunities in work and university; for this reason, Inspired hand-picks teachers who are highly experienced and committed to unlocking learners’ full potential.
+
+[OUTCOMES & DESTINATIONS]
+Through outstanding tuition and preparation at the pre-prep level, we empower students to excel in the 7+ and 8+ examinations and give their best in all they do. As a result, they advance smoothly into the best prep schools in the UK, including King’s College Junior School Wimbledon, St Paul’s Juniors and Westminster Under. All boys also have the option of progressing to Wetherby Prep School. Our holistic approach to learning and exceptional academic results prepare learners to join leading day and boarding schools after Year 3. Below is the full list of prestigious schools that our boys enter after completing their time at Wetherby School. Pupils who advance to Wetherby Prep will continue to enjoy leading academic provision and exceptional resources, designed to unleash their full potential and promote excellence in school and beyond. At Wetherby Prep School, the outstanding experience and subject knowledge of the talented teaching staff, a meticulously crafted and aspirational prep c
+
+[ADMISSIONS PROCESS]
+We warmly invite families to apply for a scholarship or bursary for their child to attend Wetherby School Notting Hill or Kensington.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: An atmosphere of care is cultivated inside and outside of school; this is for everyone’s benefit – the children, parents, staff and community – and ensures every boy has a happy, fulfilling school experience. At Wetherby School, we are committed to providing a caring, friendly and safe environment, ...
+- Student Wellbeing: The results speak for themselves: our students achieve the best academic outcomes in London, access the most prestigious prep schools, and later enjoy fascinating careers in various industries. Wetherby boys flourish in our exceptional, nurturing school environment, carefully crafted to foster their...
+- Academic Integration: Wetherby provides an environment that promotes educational excellence and tradition through a forward-thinking, holistic curriculum, which meets the needs of individual pupils. With our individualised learning strategies, each boy learns to challenge himself, pursue high standards, and seek accompli...
+- Competitive Pathway: The results speak for themselves: our students achieve the best academic outcomes in London, access the most prestigious prep schools, and later enjoy fascinating careers in various industries. At Wetherby School, we hand-pick staff with proven experience in high-quality learning provision, dedicati...
+- Facilities & Resources: Wetherby School is part of Inspired Education, a leading global group of premium private schools with 95,000+ students across 6 continents. As an Inspired School, we are committed to developing our boys’ full potential by helping them achieve excellent academic results and delivering various excitin...
+- Ongoing Accountability: Our firm commitment is to make sure each boy has a tailored path to help him progress efficiently and leave Wetherby with the practical and intellectual skill set and proactive mindset necessary to thrive in academics and well beyond, having built a solid foundation for success in all future endeavo...
+
+[IMAGES FOUND: 10]
+1. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/styles/ins_card/public/2024-08/60066_wetherby-kensington-3-july-2024-navy-studios-school-photography-091of127.jpg.jpeg?itok=2ZTUOXw7
+2. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/Untitled_design_%282%29.png
+3. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/styles/ins_text_and_image/public/2024-05/43070_wetherby_school_kensington_pupils_working_-_may_2023_-_043of110_1.jpg.jpeg?itok=O-qpDq6q
+4. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/styles/ins_card/public/2025-11/79929_Wetherby_Notting_Hill-151.jpg.jpeg?itok=9DTJIMP9
+5. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/2024-06/campus.png
+6. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/styles/text_and_image_auto_height/public/2024-08/60049_wetherby-kensington-3-july-2024-navy-studios-school-photography-070of127.jpg.jpeg?itok=hVwf20Nc
+7. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/styles/ins_banner_mobile/public/2024-08/60069_wetherby-kensington-3-july-2024-navy-studios-school-photography-092of127.jpg.jpeg?itok=Doty-mZi
+8. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/styles/ins_text_and_image/public/2024-06/43010_wetherby_school_kensington_art_-_may_2023_-_013of110_2.jpg.jpeg?itok=I7pSWLom
+9. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/2024-06/exam.png
+10. https://d24d7vsshzrslo.cloudfront.net/sites/school3/files/styles/ins_card/public/2025-11/79928_Wetherby_Notting_Hill-261_%281%29.jpg.jpeg?itok=Qzc7ethl
+
+============================================================
+
+============================================================
+SCHOOL NAME: 
+WEBSITE: https://gardenhouseschool.org.uk
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: "An inclusive, vibrant and friendly environment."
+WEBSITE: https://kcs.org.uk
+============================================================
+Ages: 4–18 | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT "AN INCLUSIVE, VIBRANT AND FRIENDLY ENVIRONMENT."]
+Ours is a friendly, energetic and purposeful community, where pupils’ enthusiasms and creativity shine in every corner of the school. Visitors comment on the phenomenal opportunities for our pupils both inside and outside the classroom. Our parents highlight the care of our dedicated staff, who go above and beyond in supporting and inspiring each young person to grow as an individual. Our pupils recognise that kindness, inclusivity, and our commitment to our wider communities, are at the centre of school life. Founded by Royal Charter in 1829, as part of the junior department of King’s College London, the power and joy of learning have been at the heart of the life of King’s from its foundation. While pupils’ exceptional success in public examinations makes us one of the world’s leading schools, a true King’s education is so much more.  Above all, we look to the world beyond school, and to the lives we prepare our young people to lead. As Head, I care deeply about preparing our young p
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Deputy HeadsMr RH Amlot MADr RCJ AtkinsonMr BM Baulf MAMr RJ Gorrie MAMr CP Sandels MScMr M Stables MAAssistant HeadsMr TFR Attenborough MA, Assistant Head (Head of Sixth Form)Mr JS Gibson BA, Assistant Head (Head of Lower School)Mr D Miller BSc, Assistant Head (Innovation)Miss AL McGarvey BSc, Assistant Head (Enrichment & Pupil Progress) (maternity leave)Miss LEL Spicer MSc (Acting Assistant Head, Enrichment & Pupil Progress) Mr CP Sandels MSc, Assistant Head (Head of Middle School)DirectorsMr DI Cass BA, Director of IBMiss RM Davis BA, Director of Staff WelfareMr PA Hatch MusB, Director of Partnerships and OutreachMr LBD Kane BSc, Director of Co-curriculum and EngagementMr HM Lam MA, Director of Higher Education and Acting Head of A levelMrs HM Lindsey-Noble BA, Director of Equality, Diversity and InclusionMrs IM Phillips-Ewen MA, Director of Entrepreneurship and Employability (maternity leave)Miss CA Ramgoolam MA, Director of Public OccasionsMr CEG Roberts BA,  Director of Entrepren
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: I want all our pupils to look back on their time at King’s College Junior School and answer this question with a resounding ‘yes’. Our teachers work hard to ensure that life here - in the classroom and outside - is stimulating and exciting. This is why we are looking for children who are bright, cur...
+- Student Wellbeing: "…excellent teaching paired with fantastic pastoral care that makes King’s College Junior School such a hot ticket." Ours is a friendly, energetic and purposeful community, where pupils’ enthusiasms and creativity shine in every corner of the school. Visitors comment on the phenomenal opportunities ...
+- Academic Integration: Education is not just about academic subjects and co-curricular activities - it is also about values. There is a simple saying which contains a great deal of truth: it is nice to be important, but more important to be nice. We want our pupils to be kind, honest, inclusive, patient and brave. The res...
+- Competitive Pathway: Find results and both past and upcoming sports fixtures below All pupils are encouraged to sing, whether it be in class, assembly or in one of the five junior school choirs. We actively encourage boys to take up instrumental and/or vocal tuition with one of our many specialist visiting music teacher...
+- Facilities & Resources: Education is not just about academic subjects and co-curricular activities - it is also about values. There is a simple saying which contains a great deal of truth: it is nice to be important, but more important to be nice. We want our pupils to be kind, honest, inclusive, patient and brave. The res...
+- Ongoing Accountability: Deputy HeadsMr RH Amlot MADr RCJ AtkinsonMr BM Baulf MAMr RJ Gorrie MAMr CP Sandels MScMr M Stables MAAssistant HeadsMr TFR Attenborough MA, Assistant Head (Head of Sixth Form)Mr JS Gibson BA, Assistant Head (Head of Lower School)Mr D Miller BSc, Assistant Head (Innovation)Miss AL McGarvey BSc, Assi...
+
+[IMAGES FOUND: 9]
+1. https://kcs.org.uk/media/7641/kings-college-school-2-67.jpg?crop=0.19377044442400934,0.12064894219275864,0.067274470908158454,0.3028679727264223&cropmode=percentage&width=1345&height=700&meta=false&rnd=133045955420000000
+2. https://kcs.org.uk/media/7642/kings-college-school-2-184.jpg?crop=0.084139527376254727,0.46715199395903734,0.14315052733161,0.15523975145582214&cropmode=percentage&width=657&height=481&meta=false&rnd=133045964910000000
+3. https://kcs.org.uk/media/7651/030322-kings-college-school-0525.jpg?anchor=center&mode=crop&width=1345&height=700&meta=false&rnd=133046008510000000
+4. https://kcs.org.uk/media/7326/fc8c0211.jpg?anchor=center&mode=crop&width=1345&height=700&meta=false&rnd=132926826590000000
+5. https://kcs.org.uk/media/7644/_84a8216.jpg?anchor=center&mode=crop&width=657&height=481&meta=false&rnd=133045984110000000
+6. https://kcs.org.uk/media/14111/sixth-formers-sitting-on-grass-in-quad-wb.jpg?anchor=center&mode=crop&width=657&height=481&meta=false&rnd=134195137360000000
+7. https://kcs.org.uk/media/7644/_84a8216.jpg?anchor=center&mode=crop&width=1345&height=700&meta=false&rnd=133045984110000000
+8. https://kcs.org.uk/media/7647/dz2a2549.jpg?anchor=center&mode=crop&width=1345&height=700&meta=false&rnd=133045994990000000
+9. https://kcs.org.uk/media/7643/_84a8934.jpg?anchor=center&mode=crop&width=657&height=481&meta=false&rnd=133045982170000000
+
+============================================================
+
+============================================================
+SCHOOL NAME: Welcome to
+																												LatymerUpper School
+WEBSITE: https://latymer-upper.org
+============================================================
+Ages: 7–18 | Founded: 2024 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT WELCOME TO
+																												LATYMERUPPER SCHOOL]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Information not explicitly found on the site....
+- Student Wellbeing: Information not explicitly found on the site....
+- Academic Integration: Information not explicitly found on the site....
+- Competitive Pathway: Information not explicitly found on the site....
+- Facilities & Resources: Information not explicitly found on the site....
+- Ongoing Accountability: Information not explicitly found on the site....
+
+[IMAGES FOUND: 6]
+1. https://www.latymer-upper.org/wp-content/uploads/2019/01/Latymer-Boy-2_cutout-e1550845500830.png
+2. https://www.latymer-upper.org/wp-content/uploads/2018/11/home_football_boy2.png
+3. https://www.latymer-upper.org/wp-content/uploads/2022/02/the-good-school-guide.png
+4. https://www.latymer-upper.org/wp-content/uploads/2023/11/ISOTY-WINNER-ROSETTE-2023-212x300.png
+5. https://www.latymer-upper.org/wp-content/uploads/2019/02/SocialMobility-Winner-300x300.jpg
+6. https://www.latymer-upper.org/wp-content/uploads/2023/12/Travel_for_Life_School-Kitemark_Achieved_GOLD-2-300x139.jpg
+
+============================================================
+
+============================================================
+SCHOOL NAME: Warm, friendly and Supportive
+WEBSITE: https://godolphinandlatymer.com
+============================================================
+Ages: 16–18 | Founded: 1936 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT WARM, FRIENDLY AND SUPPORTIVE]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Information not explicitly found on the site....
+- Student Wellbeing: Information not explicitly found on the site....
+- Academic Integration: Information not explicitly found on the site....
+- Competitive Pathway: Information not explicitly found on the site....
+- Facilities & Resources: Information not explicitly found on the site....
+- Ongoing Accountability: Information not explicitly found on the site....
+
+[IMAGES FOUND: 10]
+1. https://www.godolphinandlatymer.com/wp-content/uploads/2025/05/One-off-Gifts-1-1615x2048.jpg
+2. https://www.godolphinandlatymer.com/wp-content/uploads/2025/01/Biology-Dissection-Club-20-1365x2048.jpg
+3. https://www.godolphinandlatymer.com/wp-content/uploads/2026/01/SG-2026-Top-5-Ind-Sec-AccEx-Footer.png
+4. https://godolphinandlatymer.com/wp-content/themes/godolphin/assets/src/img/godolphinandlatymer-white.png
+5. https://www.godolphinandlatymer.com/wp-content/uploads/2023/09/Heads-Welcome-2048x1365.jpg
+6. https://godolphinandlatymer.com/wp-content/themes/godolphin/assets/src/img/tgsg.png
+7. https://www.godolphinandlatymer.com/wp-content/uploads/2024/08/Global-Futures-scaled-1.jpg
+8. https://www.godolphinandlatymer.com/wp-content/themes/godolphin/assets/src/img/godolphinandlatymer-white.png
+9. https://www.godolphinandlatymer.com/wp-content/uploads/2024/09/Tatler-Header.jpg
+10. https://www.godolphinandlatymer.com/wp-content/uploads/2025/01/Beauty-the-Beast-178-1365x2048.jpg
+
+============================================================
+
+============================================================
+SCHOOL NAME: 404 ERROR
+WEBSITE: https://chelseafc.com/academy
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT 404 ERROR]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Information not explicitly found on the site....
+- Student Wellbeing: Information not explicitly found on the site....
+- Academic Integration: Information not explicitly found on the site....
+- Competitive Pathway: Information not explicitly found on the site....
+- Facilities & Resources: Information not explicitly found on the site....
+- Ongoing Accountability: Information not explicitly found on the site....
+
+[IMAGES FOUND: 4]
+1. https://img.chelseafc.com/image/upload/f_auto,c_fill,dpr_2.0,h_80,fl_lossy,q_100/app-sote_ulm6dy.png
+2. https://img.chelseafc.com/image/upload/f_auto,c_pad,h_110,w_110,q_auto:best/Site%20Chelsea%20Badges/Main_Website_Badge_-_Colour.png
+3. https://img.chelseafc.com/image/upload/f_auto,c_fill,dpr_2.0,h_80,fl_lossy,q_100/google-play-badge_byre61.png
+4. https://img.chelseafc.com/image/upload/f_auto,c_pad,w_230,h_230,ar_1,q_auto:best/Site%20Chelsea%20Badges/Main_Website_Badge_-_Colour.png
+
+============================================================
+
+============================================================
+SCHOOL NAME: Homepage
+WEBSITE: https://arsenal.com
+============================================================
+Ages: 7–11 | Founded: 1993 | City: London, UK
+Annual Fees: £75.00
+
+[ABOUT HOMEPAGE]
+This menu is keyboard accessible. To open a menu item's submenu, press the space bar. To close a submenu press the escape key. All you need to know about the tournament as we look to defend our trophy Arsenal Football ClubHighbury House75 Drayton ParkLondon, N5 1BU Check out our exclusive Wallpapers for desktop and mobile today!
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: George Swindin (179 games as manager)
+George Swindin, a former Arsenal goalkeeper with 297 first-team appearances to his name, was invited to take over the manager’s reigns at Highbury in 1958, following a successful stint in charge of Peterborough United. He oversaw a drastic overhaul in the playin...
+- Student Wellbeing: We asked the fans to choose their all-time XI and we got a tremendous response. More than 12,000 teams were submitted as supporters all around the world had their say. There were only two rules: no current Arsenal players could be included and the formation would be a traditional 4-4-2. That gave th...
+- Academic Integration: This menu is keyboard accessible. To open a menu item's submenu, press the space bar. To close a submenu press the escape key. All you need to know about the tournament as we look to defend our trophy...
+- Competitive Pathway: 4. 1909...Arsenal played (and won) their first ever North London Derby against Spurs. Result: 1-0....
+- Facilities & Resources: This menu is keyboard accessible. To open a menu item's submenu, press the space bar. To close a submenu press the escape key. All you need to know about the tournament as we look to defend our trophy...
+- Ongoing Accountability: Phil Kelso (152 games as manager)
+Phil Kelso was a hard, rugged Scot who was a coach at Hibernian, before taking over as manager of newly-promoted Woolwich Arsenal from 1904 until 1908. Kelso guided the club to two consecutive last-four finishes in the FA Cup but did not make much progress in the le...
+
+[IMAGES FOUND: 10]
+1. https://arsenal.com/sites/default/files/styles/paragraph_group_one_column_large/public/images/Renee-waves-to-fans_p6kwjhan.jpg?h=c114165f&auto=webp&itok=OdjXfthS
+2. https://arsenal.com/sites/default/files/styles/header_sponsor/public/2023-07/adidas2023.png?auto=webp&itok=7GAl1JzE
+3. https://arsenal.com/sites/default/files/styles/header_sponsor/public/2026-01/emirates2026_azrinogo.png?auto=webp&itok=gG_lhDci
+4. https://arsenal.com/sites/default/files/styles/paragraph_group_one_column_large/public/images/havertz-city_qkdjndcp.png?h=1178692f&auto=webp&itok=fSQOfYcD
+5. https://arsenal.com/sites/default/files/styles/paragraph_group_one_column_large/public/images/Taylor-Hinds-clapping_hcmw5ap7.jpg?h=1dd4575e&auto=webp&itok=nH-NabwJ
+6. https://arsenal.com/sites/default/files/styles/header_sponsor/public/2019-07/visit-rwanda.png?auto=webp&itok=67Sfpy8r
+7. https://arsenal.com/sites/default/files/styles/paragraph_group_one_column_large/public/images/Russo-celebrates-scoring_nnaewij0.jpg?h=f7d2c900&auto=webp&itok=4kMB0pKB
+8. https://arsenal.com/sites/default/files/styles/paragraph_group_one_column_large/public/images/gyokeres-atletico_kvnosp75.png?h=b130008d&auto=webp&itok=SFG6IELU
+9. https://arsenal.com/sites/default/files/styles/paragraph_group_three_column_large/public/images/martinelli-celeb-brugge_bamv7mi6.png?h=410716c0&auto=webp&itok=0_ofmoaB
+10. https://arsenal.com/sites/default/files/styles/paragraph_group_one_column_large/public/images/GettyImages-2236594455%20Cropped_dkdyd3ss.jpg?h=258bc54c&auto=webp&itok=WLzo2drS
+
+============================================================
+
+============================================================
+SCHOOL NAME: Welcome to The Queen's Club
+WEBSITE: https://queensclub.co.uk
+============================================================
+Ages:  | Founded: 2024 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT WELCOME TO THE QUEEN'S CLUB]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: All staff, those under contractual arrangements, Members and others using the Club are required to abide by this Code of Conduct: As part of our commitment to minimise the impact on the environment, we believe our staff and members have a vital role to play....
+- Student Wellbeing: The Queen’s Club believes that it is always unacceptable for a child, young person or adult at risk to experience abuse of any kind and acknowledges its duty of care to safeguard and promote the welfare of children, young people and adults at risk. The Club is committed to ensuring safeguarding prac...
+- Academic Integration: The Queen’s Club has always been, and remains, a racquet sports club and the primary reason for any applicant to submit an application for membership should be for them to personally play one of the primary racquet sports at Queen’s as well as to participate in the life of the Club.
+
+In May 2007, Th...
+- Competitive Pathway: The Queen’s Club has always been, and remains, a racquet sports club and the primary reason for any applicant to submit an application for membership should be for them to personally play one of the primary racquet sports at Queen’s as well as to participate in the life of the Club.
+
+In May 2007, Th...
+- Facilities & Resources: The Queen’s Club has always been, and remains, a racquet sports club and the primary reason for any applicant to submit an application for membership should be for them to personally play one of the primary racquet sports at Queen’s as well as to participate in the life of the Club.
+
+In May 2007, Th...
+- Ongoing Accountability: The Queen’s Club has always been, and remains, a racquet sports club and the primary reason for any applicant to submit an application for membership should be for them to personally play one of the primary racquet sports at Queen’s as well as to participate in the life of the Club.
+
+In May 2007, Th...
+
+[IMAGES FOUND: 6]
+1. https://queensclub.co.uk/getmedia/8d4802e8-0830-49cf-bd3d-b3b412ce51ad/qcf_xmas.aspx?width=1200&height=675&ext=.jpg
+2. https://queensclub.co.uk/getmedia/b985d6dc-ad06-4697-9d4f-773a8088bb71/Day_7_ATP.aspx?width=1200&height=675&ext=.jpg
+3. https://queensclub.co.uk/getmedia/219dce9f-1d8b-469e-8001-7a5066628d35/qcf_10_yrs.aspx?width=1200&height=675&ext=.png
+4. https://queensclub.co.uk/getmedia/cc2a8dc1-189e-4bab-9e58-c43ec4260942/QCF.aspx?width=896&height=914&ext=.png
+5. https://queensclub.co.uk/getmedia/4d5c7e3f-7521-4125-b66d-b1bd1d0cc478/2026_announcement_Instagram_Post_(1200_x_675_px).aspx?width=1200&height=675&ext=.jpg
+6. https://queensclub.co.uk/getmedia/a345bcd8-7530-4ba2-aef7-7aacf45791b8/FF4D00-0.aspx?width=1&height=1&ext=.png
+
+============================================================
+
+============================================================
+SCHOOL NAME: WELCOME TO THE HURLINGHAM CLUB
+WEBSITE: https://hurlinghamclub.org.uk
+============================================================
+Ages: 4–5 | Founded: 1869 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT WELCOME TO THE HURLINGHAM CLUB]
+The Hurlingham Club Foundation is the official charity of The Hurlingham Club, driven by a simple yet powerful mission: to harness the collective strength of the Club to create opportunities and spaces that improve health, wellbeing, and life chances for people in our local borough. In 2021, the Foundation was set up with support from members, staff and the local community. Every year, we channel resources and financial support into initiatives that make a tangible difference - both within the Club and across the borough. From delivering inclusive activities on-site to supporting community programs, we focus on reaching underserved communities and empowering individuals to thrive. By working together, we help to transform lives and strengthen the fabric of our community – ensuring that people have access to the opportunities they deserve. In order to continue this fantastic work, we have established a donation page to allow those who are interested in our work to support the cause. Whe
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: As a family Club, the primary responsibility for children on site lies with the parent or guardian. This includes instances such as when members who are known to each other arrange between themselves to transport their children to events at the Club. However, under certain circumstances, this respon...
+- Student Wellbeing: It is the policy of the Club to maintain the highest standards and to work within the principles of Ofsted guidelines for all children’s activities, in particular with respect to staffing ratios and qualifications of all those working with children. The Club aims to provide all children and young pe...
+- Academic Integration: Discover the exceptional sporting facilities of The Hurlingham Club, available for private hire by non-members and corporate groups. Whether you’re planning a team-building day, a photoshoot, or creating an unforgettable setting for client entertainment, our expert team will work with you to design ...
+- Competitive Pathway: As a family Club, the primary responsibility for children on site lies with the parent or guardian. This includes instances such as when members who are known to each other arrange between themselves to transport their children to events at the Club. However, under certain circumstances, this respon...
+- Facilities & Resources: Discover the exceptional sporting facilities of The Hurlingham Club, available for private hire by non-members and corporate groups. Whether you’re planning a team-building day, a photoshoot, or creating an unforgettable setting for client entertainment, our expert team will work with you to design ...
+- Ongoing Accountability: A Disclosure is only requested after a thorough risk assessment has indicated that one is both proportionate and relevant to the position concerned. Unless the nature of the position allows the Club to ask questions about an entire criminal record, the Club will only ask about “unspent” convictions ...
+
+[IMAGES FOUND: 6]
+1. https://hurlinghamclub.org.uk/media/00cn4d32/the-hurlingham-club-exterior.png?rxy=0.5018112488083889,0.46212729548007481&width=1440&height=449&v=1da63e06b5c0db0
+2. https://hurlinghamclub.org.uk/media/432hupde/interior-shots-2014_dsc_08331_72pip_2000px_extension.jpg?rxy=0.50025915381057706,0.40648547286094877&width=2200&height=1421&v=1d7cb320c426480
+3. https://hurlinghamclub.org.uk/media/chtdwu1j/events-header-3.png?cc=0.25843687010990168,0.000165144008605769,0.25898350018068078,0.00016514400860555371&width=2200&height=1421&v=1d7daf6b54dbe20
+4. https://hurlinghamclub.org.uk/media/ypql0vwm/microsoftteams-image-70.png?rxy=0.34921729037255755,0.534687494708987&width=2200&height=1421&v=1da8a8410b5ff90
+5. https://hurlinghamclub.org.uk/media/htrlroix/hurlingham-events-_mg_4091_hdr1_72pip_2000px_extension.jpg?rxy=0.5109421932613305,0.38289533994883795&width=2200&height=1421&v=1d7d22d2cd2e920
+6. https://hurlinghamclub.org.uk/media/jntjlutq/tennis-championships-2015_dsc_2778.jpg?width=2200&height=1421&v=1d74bc831d6ebb0
+
+============================================================
+
+============================================================
+SCHOOL NAME: 
+WEBSITE: https://wetherbygym.co.uk
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: Bespoke Tuition
+WEBSITE: https://bespoketuition.com
+============================================================
+Ages: 7–11 | Founded: 2010 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT BESPOKE TUITION]
+We are pleased to feature the following brands who have endorsed or reviewed Bespoke Tuition as well as those who have shared beliefs or natural crossover. To receive a complimentary tutor proposal or discuss your tuition requirements, please contact us via one of the following options: © 2016-2026 - Bespoke Tuition. All rights reserved. | WEB : BMAS
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+For those aspiring to secure a place at the famously competitive University of Oxford and University of Cambridge, confidence is key and that involves preparation. A well poised personal statement or strong interview can make or break a successful application. Bespoke Tuition pairs an applicant with an Oxbridge consultant and specialist tutors (in most case who attended the same college and course) who can provide behind-the-scenes insight into the admissions process, everyday life, pros and cons of different colleges as well as insider tips and tricks to help your application stand out from the crowd. From personal statement models to interview role play and sample tests, our Oxbridge specialists will ensure you feel as confident as possible in composing an exemplary application and perform to the best of your ability in any subject-specific tests such as the TSA, LNAT, BMAT and CAT. Having studied in Asia, the UK and the USA, Jennifer (BA) scored 45/45 in the IB before attaining a Scholarship to study Social & Political Sciences at Cambridge University. She now guides secondary students on all facets of the Oxbridge admissions process from course and college selection to navigating the admissions tests and preparing for interview. Jen helps students to surpass their potential by learning to think like an Oxbridge graduate, offering insider tips and tricks, further reading and tailored support. An increasingly popular option worldwide, many families are actively opting to  remove their child from mainstream schooling in favour of tutoring them at home on a full time or flexi-schooling basis. Bespoke Tuition has supported families in this process from start to finish since 2010. Following an in-depth consultation, ideally in-person, our professional consultants will tailor a bespoke academic programme to suit the objectives, personality, interests and motivations of the family. Our experienced home-schooling educators are mostly ex-schoolteachers who can confidently take full control of a student’s academic studies and devise a customised and structured curriculum that will meet a family’s short and long-term objectives. Whether the schooling will take place at home, abroad or ‘at sea’, we can send single or multiple inspiring educators to your door/port! We can also help students to register and prepare for external exams where relevant and our tutors can collaborate with relevant schools to ensure the home-schooling complements any curriculum and teaching methods that may be applicable to the student. Our main tuition service is the delivery of carefully tailored tuition delivered by the hour, or day, in person at family homes (London and Hong Kong) or online (worldwide). All tuition is one to one (though small groups can be accommodated on demand) and highly customised. Many of the tutors who are selected to join the exclusive team at Bespoke Tuition have been specifically headhunted for their outstanding expertise. The majority are ‘Career Tutors’, as opposed to part time educators, or professional teachers with PGCE qualification. All are vetted via our meticulous recruitment process. We are well known for the care we take in matching tutors to students based on subject, level and interest areas. Successful tuition occurs when a student admires and relates to their tutor so we purposefully recruit a range of bright, engaging and charismatic communicators with high emotional intelligence and wide-ranging talents and hobbies. When a family requests a tutor, we conduct a personalised search and then send proposals via email for the family’s review, detailing applicants that match the academic level, objectives and interests of the student. A trial then takes place, either in person or online as appropriate, to ensure a good fit. This is truly bespoke academic tuition.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Based in Chelsea, Marina has an unrivalled knowledge of the London Day School system, with particular expertise in Early Years through to Preparatory education. She has experienced first-hand the challenge of relocating with her own family to the UK and has been working with children for over 20 yea...
+- Student Wellbeing: Families will deal with one consultant only throughout the process who understands the client and their needs. With a 500+ database, the core team consists of around 50 handpicked tutors who are carefully matched to suit a student’s unique objectives and personality. All tutors have been selected vi...
+- Academic Integration: The flagship worldschooling provision supports families as they travel, with tutors curating immersive, experience-led learning rooted in each destination. For those in one fixed location, a fully personalised homeschool programme is crafted around the individual learner, either as a supplement or f...
+- Competitive Pathway: Families will deal with one consultant only throughout the process who understands the client and their needs. With a 500+ database, the core team consists of around 50 handpicked tutors who are carefully matched to suit a student’s unique objectives and personality. All tutors have been selected vi...
+- Facilities & Resources: Brenda is a seasoned psychotherapist with a deep commitment to supporting young adults and parents as they navigate life’s challenges. With a previous career in law and finance and MSc degrees in both Psychology and Psychotherapy, Brenda understands the challenges of a healthy work-life balance.  Sh...
+- Ongoing Accountability: By pairing outstanding tutors with exceptional young people, Bespoke Tuition consistently delivers beyond expectation. Students not only achieve academic success but also cultivate the skills that will define future leaders—creativity, critical thinking, communication and entrepreneurial confidence....
+
+[IMAGES FOUND: 6]
+1. https://bespoketuition.com/app/uploads/bg-1920x1080-c-center.jpg
+2. https://bespoketuition.com/app/uploads/jk-gJhev0YgUcE-unsplash-scaled-1-400x300-c-default.jpg
+3. https://bespoketuition.com/app/uploads/association-160x0-c-default.png
+4. https://bespoketuition.com/app/uploads/tatler-address-book-e1614630719641-180x0-c-default.png
+5. https://bespoketuition.com/app/uploads/HongKong_header-400x300-c-default.jpg
+6. https://bespoketuition.com/app/uploads/London_header-1-400x300-c-default.jpg
+
+============================================================
+
+============================================================
+SCHOOL NAME: Private Tutors in London and Online
+WEBSITE: https://keystonetutors.com
+============================================================
+Ages: 7–11 | Founded: 2007 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT PRIVATE TUTORS IN LONDON AND ONLINE]
+London: +44 (0)207 602 5310 | Hong Kong: +852 3704 4817 | Singapore: +65 3157 6543 We share with many of the tutors we represent the belief that the benefits of private tutoring should be spread as widely as possible. We are proud to support a range of charities and initiatives that deliver 1-on-1 and small group learning to those who would otherwise be unable to afford it. We also deliver our own university programme.If you’d like to discuss our pro bono work further please do get in touch. Keystone’s university programme supports exceptional and ambitious students who have academic potential but who may lack the know-how and support to win places and succeed at the UK’s most competitive universities. Our programme is led by experienced university consultants and subject specialist tutors ensuring students are comprehensively supported throughout their preparation. The programme comprises both small group teaching and larger workshops. Students on the programme are supported between t
+
+[PHILOSOPHY & ETHOS]
+Keystone’s university programme supports exceptional and ambitious students who have academic potential but who may lack the know-how and support to win places and succeed at the UK’s most competitive universities. Our programme is led by experienced university consultants and subject specialist tutors ensuring students are comprehensively supported throughout their preparation. The programme comprises both small group teaching and larger workshops. Students on the programme are supported between the sessions by the provision of supplementary material allowing for focused independent preparation. Our programme takes place online using Microsoft Teams and all costs are covered by Keystone. We try to target our work at families who are eligible for Free School Meals (FSM) but are not bound by this designation and take a broad view of the disadvantages that a family may face. The application deadline for 2026 is Friday 1st May and you can fill in an application form here. We are delighted to continue to support Godolphin & Latymer’s ‘The Bridge’ programme. This programme aims to provide academic enrichment for bright boys and girls from families who would not normally consider sending their children to independent schools. Our expert 11+ and Pre Test tutors deliver booster courses focussing on English, maths, reasoning and communication skills. You can read more about The Bridge here and watch a video from 2021 here.
+
+[OUTCOMES & DESTINATIONS]
+London: +44 (0)207 602 5310 | Hong Kong: +852 3704 4817 | Singapore: +65 3157 6543 Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting - tailored to your house style and systems. We understand that every school has different needs, and we are always happy to discuss these and ensure that we can create a programme to help your students. Please do flag anything that we can help with which has not been mentioned above and we would be delighted to discuss how we could support. To find out more about how Keystone Elective can help support your students, book a free 30 minute call with us. Keystone has worked with Luckley House School on a number of occasions partnering with them to provide targeted support for their A Level students. "Please could 
+
+[ADMISSIONS PROCESS]
+Keystone Tutors has an outstanding track record of supporting students through every element of the highly competitive Oxbridge and top UK university admissions process. From personal statement development and super-curricular learning to admissions test preparation and mock interview support, our expert Oxbridge tutors provide tailored, one-to-one support to help students maximise their chance of success. Each year, we work with a large number of Oxbridge and other competitive university applicants, offering focused advice and advanced subject-specific tuition. With the guidance of Keystone’s experienced tutors, students are equipped to approach the university application process with confidence and academic rigour. Many of the tutors we work with studied at Oxford or Cambridge, giving them first-hand insight into the admissions process and what it takes to stand out. Our tutors are well-versed in the formats, strategies, and content of admissions tests.  We match each student with a tutor who understands both the exam (where applicable) and the wider application context. The tutors bring a wealth of experience in preparing students for all aspects of the application process, including:
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting -...
+- Student Wellbeing: Will began tutoring after he graduated from Oxford and couldn’t believe that he had stumbled upon a way to make a living that was at once so enjoyable and so rewarding. He was soon joined by one of his oldest friends, Josh Pull, who had begun a career in investment banking at Lazard, to come and run...
+- Academic Integration: Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting -...
+- Competitive Pathway: "When familiarising our boys with the process of being interviewed by senior school staff, we need sensible and seasoned people unknown to the boys but trusted by us. We rely on Keystone and they have never let us down. They provide seasoned interviewers and quality feedback, both for us and parents...
+- Facilities & Resources: Before we can help a student, we often need to spend quite a significant amount of time learning about the student's requirements. Most consultations are carried out over the phone or on a video call. They are led by our Client Managers, who collectively bring nearly 50 years of experience in educat...
+- Ongoing Accountability: Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting -...
+
+[IMAGES FOUND: 10]
+1. https://keystonetutors.com/5/4230/4.jpg
+2. https://keystonetutors.com/5/3373/4.jpg
+3. https://keystonetutors.com/5/4648/4.jpg
+4. https://keystonetutors.com/5/3499/4.jpg
+5. https://keystonetutors.com/5/6715/4.jpg
+6. https://keystonetutors.com/5/5091/4.jpg
+7. https://keystonetutors.com/5/6095/4.jpg
+8. https://keystonetutors.com/5/6707/4.jpg
+9. https://keystonetutors.com/5/4226/4.jpg
+10. https://keystonetutors.com/5/3506/4.jpg
+
+============================================================
+
+============================================================
+SCHOOL NAME: 
+WEBSITE: https://quintessentially.com/education
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: The Profs Get Results
+WEBSITE: https://theprofs.co.uk
+============================================================
+Ages: o | Founded: 2016 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT THE PROFS GET RESULTS]
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. Let’s get you back on the path to academic success. Try one of these links instead: Or, use the search box below to find what you are looking for: The UK’s highest rated tuition company since 2016 on Trustpilot
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+The Profs has one of the most competitive vetting processes of any
+ agency in the UK. Only 3% of tutors are accepted to work with our students. You can feel
+ confident knowing you are working with the best! We have tutors in our network that are former admissions tutors or
+ who have supported with the applications process. They have the inside scoop on what your shortlisted universities are looking for from their applicants. We expect the best from our tutors those that we put forward will have proven track record of helping students successfully apply to the same courses as you. Our in-office team will provide regular updates throughout the process.
+ We offer all of our package clients quantitative progress tracking, reports and updates to
+ ensure you always understand what is going on.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Oxford graduate and qualified Science teacher with a PhD in Molecular Biochemistry and Chemical Biology Oxford graduate and qualified Science teacher with a PhD in Molecular Biochemistry and Chemical Biology...
+- Student Wellbeing: We have tutors in our network that are former admissions tutors or
+ who have supported with the applications process. They have the inside scoop on what your shortlisted universities are looking for from their applicants. Dr Arjun has been a full-time tutor for more than a decade. He has a Master’s ...
+- Academic Integration: We do not facilitate cheating or academic misconduct in any way. Please do not call or request anything unethical from our team. Dr Bianca is an experienced lecturer, research consultant and tutor. She has a Master’s in Health Psychology and a PhD in Health Psychology and Psychobiology, both from UC...
+- Competitive Pathway: Tormod has been a professional private tutor for over 7 years. He is a trained anthropologist with over a decade of experience lecturing at postgraduate-level at Roehampton University, as well as undertaking EU-funded research into human rights issues. Tormod has a successful track record of working...
+- Facilities & Resources: Training people from very different social and cultural backgrounds is challenging and rewarding, and I have developed very good skills in conveying information and getting feedback in different ways in order to promote common understanding....
+- Ongoing Accountability: Our in-office team will provide regular updates throughout the process.
+ We offer all of our package clients quantitative progress tracking, reports and updates to
+ ensure you always understand what is going on....
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: Private Tutors in London and Online
+WEBSITE: https://keystonetutors.com
+============================================================
+Ages: 7–11 | Founded: 2007 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT PRIVATE TUTORS IN LONDON AND ONLINE]
+London: +44 (0)207 602 5310 | Hong Kong: +852 3704 4817 | Singapore: +65 3157 6543 We share with many of the tutors we represent the belief that the benefits of private tutoring should be spread as widely as possible. We are proud to support a range of charities and initiatives that deliver 1-on-1 and small group learning to those who would otherwise be unable to afford it. We also deliver our own university programme.If you’d like to discuss our pro bono work further please do get in touch. Keystone’s university programme supports exceptional and ambitious students who have academic potential but who may lack the know-how and support to win places and succeed at the UK’s most competitive universities. Our programme is led by experienced university consultants and subject specialist tutors ensuring students are comprehensively supported throughout their preparation. The programme comprises both small group teaching and larger workshops. Students on the programme are supported between t
+
+[PHILOSOPHY & ETHOS]
+Keystone’s university programme supports exceptional and ambitious students who have academic potential but who may lack the know-how and support to win places and succeed at the UK’s most competitive universities. Our programme is led by experienced university consultants and subject specialist tutors ensuring students are comprehensively supported throughout their preparation. The programme comprises both small group teaching and larger workshops. Students on the programme are supported between the sessions by the provision of supplementary material allowing for focused independent preparation. Our programme takes place online using Microsoft Teams and all costs are covered by Keystone. We try to target our work at families who are eligible for Free School Meals (FSM) but are not bound by this designation and take a broad view of the disadvantages that a family may face. The application deadline for 2026 is Friday 1st May and you can fill in an application form here. We are delighted to continue to support Godolphin & Latymer’s ‘The Bridge’ programme. This programme aims to provide academic enrichment for bright boys and girls from families who would not normally consider sending their children to independent schools. Our expert 11+ and Pre Test tutors deliver booster courses focussing on English, maths, reasoning and communication skills. You can read more about The Bridge here and watch a video from 2021 here.
+
+[OUTCOMES & DESTINATIONS]
+London: +44 (0)207 602 5310 | Hong Kong: +852 3704 4817 | Singapore: +65 3157 6543 Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting - tailored to your house style and systems. We understand that every school has different needs, and we are always happy to discuss these and ensure that we can create a programme to help your students. Please do flag anything that we can help with which has not been mentioned above and we would be delighted to discuss how we could support. To find out more about how Keystone Elective can help support your students, book a free 30 minute call with us. Keystone has worked with Luckley House School on a number of occasions partnering with them to provide targeted support for their A Level students. "Please could 
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting -...
+- Student Wellbeing: Will began tutoring after he graduated from Oxford and couldn’t believe that he had stumbled upon a way to make a living that was at once so enjoyable and so rewarding. He was soon joined by one of his oldest friends, Josh Pull, who had begun a career in investment banking at Lazard, to come and run...
+- Academic Integration: Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting -...
+- Competitive Pathway: "When familiarising our boys with the process of being interviewed by senior school staff, we need sensible and seasoned people unknown to the boys but trusted by us. We rely on Keystone and they have never let us down. They provide seasoned interviewers and quality feedback, both for us and parents...
+- Facilities & Resources: Before we can help a student, we often need to spend quite a significant amount of time learning about the student's requirements. Most consultations are carried out over the phone or on a video call. They are led by our Client Managers, who collectively bring nearly 50 years of experience in educat...
+- Ongoing Accountability: Our Elective offering includes delivering teaching in A Level, GCSE and IB subjects that schools often find hard to staff on a consistent basis. Our tutors will deliver all or part of the curriculum as required by your school. Within our offering, we can manage attendance, assessment and reporting -...
+
+[IMAGES FOUND: 10]
+1. https://keystonetutors.com/5/4230/4.jpg
+2. https://keystonetutors.com/5/3373/4.jpg
+3. https://keystonetutors.com/5/4648/4.jpg
+4. https://keystonetutors.com/5/3499/4.jpg
+5. https://keystonetutors.com/5/6715/4.jpg
+6. https://keystonetutors.com/5/5091/4.jpg
+7. https://keystonetutors.com/5/6095/4.jpg
+8. https://keystonetutors.com/5/6707/4.jpg
+9. https://keystonetutors.com/5/4226/4.jpg
+10. https://keystonetutors.com/5/3506/4.jpg
+
+============================================================
+
+============================================================
+SCHOOL NAME: EF - Language. Education. Travel.
+WEBSITE: https://ef.com
+============================================================
+Ages: 7–11 | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT EF - LANGUAGE. EDUCATION. TRAVEL.]
+At EF Education First, we believe that the world is better when people try to understand one another. Since 1965, EF has helped millions of people see new places, experience new cultures, and learn new things about the world and about themselves. Our experiential learning programs—focused on language, travel, cultural exchange, and academics—help turn dreams into opportunities for people of all ages and nationalities. We offer degree programs at secondary, university, and post-graduate levels. Students who attend our schools go on to study at the world’s best universities. We are also associated with Hult International Business School, renowned for its top-ranked graduate and undergraduate programs. EF leads expertly guided tours to the world’s greatest sights and landscapes. Itineraries are tailored to the needs of teachers and students at all levels. We also develop adventures and travel experiences for people of all ages and interests. An EF language course can help you talk to the 
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Live, teacher-led lessons anytime, anywhere - at any ability level. EF leads expertly guided tours to the world’s greatest sights and landscapes. Itineraries are tailored to the needs of teachers and students at all levels. We also develop adventures and travel experiences for people of all ages and...
+- Student Wellbeing: A career with EF combines the support and opportunity of a large organization with the spirit and energy of a small business. We look for thinkers and doers - creative, collaborative, and motivated people who are excited by education, communication, and travel. Teens can join structured summer progr...
+- Academic Integration: We open the world through language learning, cultural exchange, academic achievement and educational travel. Combine language and academic studies at an EF campus abroad....
+- Competitive Pathway: Teens can join structured summer programs with supervision and built-in activities. Adults and university students can choose flexible short-term courses starting any Monday. For those seeking deeper immersion, Academic Semester or Academic Year programs provide long-term progression. We also offer ...
+- Facilities & Resources: Choose from 10 languages in 50 accredited EF International Language Campuses around the world. Combine language and academic studies at an EF campus abroad....
+- Ongoing Accountability: Language travel is more than a trip — it’s a turning point. When you study abroad, the language becomes part of your everyday life: the way you order, connect, explore, and express yourself. Whether you’re looking for language classes abroad for a few weeks or longer language studies abroad, immersi...
+
+[IMAGES FOUND: 10]
+1. https://a.storyblok.com/f/341138/620x1102/924191868d/mortarboard-optimised.jpg/m/360x640/filters:format(webp):quality(70)
+2. https://a.storyblok.com/f/341138/1870x1854/44fb0b161b/hipla_efpasadena_exterior-optimised.jpg/m/360x360/filters:format(webp):quality(70)
+3. https://a.storyblok.com/f/341138/1540x1540/e697d30b9f/2-students-beach-optimised.jpg/m/360x360/filters:format(webp):quality(70)
+4. https://a.storyblok.com/f/341138/950x1431/cc7443fd6f/barcelona-optimised.jpg/m/360x360/filters:format(webp):quality(70)
+5. https://a.storyblok.com/f/341138/1013x676/e94f7d8b86/classroom-optimised.jpg/m/360x360/filters:format(webp):quality(70)
+6. https://a.storyblok.com/f/341138/537x545/6f660678e7/paris-river-optimised.jpg/m/360x360/filters:format(webp):quality(70)
+7. https://a.storyblok.com/f/341138/441x683/ab99850182/walkingny.png/m/360x640/filters:format(webp):quality(70)
+8. https://a.storyblok.com/f/341138/958x1414/12662552d8/student-outside-optimised.jpg/m/360x640/filters:format(webp):quality(70)
+9. https://a.storyblok.com/f/341138/809x1191/1a9b4c34f0/beach-backpack.png/m/360x640/filters:format(webp):quality(70)
+10. https://a.storyblok.com/f/341138/220x220/218adfec37/sticker-newyork.png/m/161x161/filters:format(webp):quality(60)
+
+============================================================
+
+============================================================
+SCHOOL NAME: We are the UK’s leading organisation championing orchestral music as a powerful agent for teenage development.
+WEBSITE: https://nyo.org.uk
+============================================================
+Ages:  | Founded: 2023 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT WE ARE THE UK’S LEADING ORGANISATION CHAMPIONING ORCHESTRAL MUSIC AS A POWERFUL AGENT FOR TEENAGE DEVELOPMENT.]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Information not explicitly found on the site....
+- Student Wellbeing: Information not explicitly found on the site....
+- Academic Integration: Information not explicitly found on the site....
+- Competitive Pathway: Information not explicitly found on the site....
+- Facilities & Resources: Information not explicitly found on the site....
+- Ongoing Accountability: Information not explicitly found on the site....
+
+[IMAGES FOUND: 10]
+1. https://www.nyo.org.uk/wp-content/uploads/homepage-card-support-us-edited.jpg
+2. https://www.nyo.org.uk/wp-content/uploads/elementor/thumbs/NYO-Recruitment-2027-web-scaled-rlxyj6rus94me3i5dn6yfjuc3ym0xxuowamhssqs4o.png
+3. https://www.nyo.org.uk/wp-content/uploads/trumpet-warp-website-V4-scaled.jpg
+4. https://www.nyo.org.uk/wp-content/uploads/become_a_change.jpg
+5. https://www.nyo.org.uk/wp-content/uploads/Beat-Maker-1200x700-1.jpg
+6. https://www.nyo.org.uk/wp-content/uploads/elementor/thumbs/Collide-news-1-scaled-rinn5nn16zlvdktnv5hue8r4edsc1rhbxz9g3ptw4o.jpg
+7. https://www.nyo.org.uk/wp-content/uploads/elementor/thumbs/NYO-RFH-scaled-rlzzt6tnbkcq0nnraxnl6uzhzs8lhcj9l6tuv5cpgo.jpg
+8. https://www.nyo.org.uk/wp-content/uploads/elementor/thumbs/NYO-Blackpool-Tower-rje3x8hylr597srreu1lid3ff5ixllfmp4vl67i2nc.jpg
+9. https://www.nyo.org.uk/wp-content/uploads/Rhythm-Lover-1200x700-2.jpg
+10. https://www.nyo.org.uk/wp-content/uploads/2023/08/donate_now.png
+
+============================================================
+
+============================================================
+SCHOOL NAME: 
+WEBSITE: https://royalballetschool.org.uk
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: Sylvia Young Theatre School
+WEBSITE: https://sylviayoungtheatreschool.co.uk
+============================================================
+Ages:  | Founded: 1939 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT SYLVIA YOUNG THEATRE SCHOOL]
+Sylvia Young Theatre School Limited is a company limited by guarantee and registered in England and Wales with company number 01812483. The registered office is at 1 Nutford Place, London, W1H 5YZ.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: The Headteacher is a member of, and the school is accredited by the Independent Schools Association [ISA] The Headteacher is a member of, and the school is accredited by the Independent Schools Association [ISA]...
+- Student Wellbeing: In partnership with parents and carers, the Sylvia Young Theatre School aims to provide opportunities for its students that enable them to play an active and positive role as members of the school and the wider community.  Students have access to and experience of the curriculum regardless of race, ...
+- Academic Integration: In partnership with parents, the Sylvia Young Theatre School aims to provide opportunities for its students that enable them to play an active and positive role as members of the school and the wider community.  Students have access to and experience of the curriculum regardless of race, class, gend...
+- Competitive Pathway: The proprietor of the school is Alison Ruffell. She can be contacted via Fiona Wightman, Executive Assistant to the Senior Leadership Team.  (0207 258 2330 ex 205) The Independent Schools Association (ISA) is delighted to recognise Harriet as the winner of the Whitbread Memorial Prize for 2023.
+The ...
+- Facilities & Resources: In partnership with parents, the Sylvia Young Theatre School aims to provide opportunities for its students that enable them to play an active and positive role as members of the school and the wider community.  Students have access to and experience of the curriculum regardless of race, class, gend...
+- Ongoing Accountability: The quality of the pupils’ academic and other achievements is excellent. Pupils are high achievers who attain exceptional standards in their vocational studies and excel academically.
+Inspection Report 2023...
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: Welcome toGuildhall
+WEBSITE: https://gsmd.ac.uk
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT WELCOME TOGUILDHALL]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Meet the teaching staff and technicians in our Production Arts Department....
+- Student Wellbeing: Production Arts leads to a host of transferable skills and career opportunities, with our graduates having an excellent employment rate. Production Arts leads to a host of transferable skills and career opportunities. Find out more about the careers of our graduates and the opportunities available i...
+- Academic Integration: Guildhall School encourages applications from students whose backgrounds are underrepresented in higher education, and at the School. Find out more about our Access & Participation work and ways to get involved....
+- Competitive Pathway: Meet our final-year Production Arts students and explore their profiles, from interviews and examples of work to project and production images and videos. Previous Guildhall graduates have progressed to senior positions for some of the UK’s leading cultural venues and companies:...
+- Facilities & Resources: The School boasts technical and performance facilities which are among the best in the world. The teaching is practical, collaborative and production-based; students work on public productions and live events with professional directors, designers and conductors participating in the creation of accl...
+- Ongoing Accountability: Previous Guildhall graduates have progressed to senior positions for some of the UK’s leading cultural venues and companies:...
+
+[IMAGES FOUND: 2]
+1. https://gsmd.ac.uk/sites/default/files/styles/12_6_media_small/public/2025-07/101-%28c%29-DavidMonteith-Hodge-Photographisepleasecredit-Orlando-%28DMH_9559%29%20%281%29_0.jpg?h=e10932b2&itok=yWK0Yt5D
+2. https://gsmd.ac.uk/sites/default/files/styles/12_6_media_small/public/2025-07/49%20-%20%28c%29%20-%20David%20Monteith-Hodge%20-%20Photographise%20please%20credit%20-%20Guildhall%20Gold%20Medal%2025%20-%20%28DMH_7686%29.jpg?h=0c83d905&itok=_t1jrXjG
+
+============================================================
+
+============================================================
+SCHOOL NAME: 
+WEBSITE: https://ram.ac.uk
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT ]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+
+[IMAGES FOUND: 0]
+
+============================================================
+
+============================================================
+SCHOOL NAME: LUXURY HEALTH AND FITNESS CLUB IN LONDON
+WEBSITE: https://kxlife.co.uk
+============================================================
+Ages:  | Founded: 2002 | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT LUXURY HEALTH AND FITNESS CLUB IN LONDON]
+No specific 'About' section found.
+
+[PHILOSOPHY & ETHOS]
+Information not found.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Information not explicitly found on the site....
+- Student Wellbeing: Information not explicitly found on the site....
+- Academic Integration: Information not explicitly found on the site....
+- Competitive Pathway: Information not explicitly found on the site....
+- Facilities & Resources: Information not explicitly found on the site....
+- Ongoing Accountability: Information not explicitly found on the site....
+
+[IMAGES FOUND: 10]
+1. https://www.kxlife.co.uk/propeller/uploads/2021/05/240.jpg?format=auto&width=420
+2. https://www.kxlife.co.uk/propeller/uploads/2021/05/1450-6-800x441.jpg?format=auto&width=800
+3. https://www.kxlife.co.uk/propeller/uploads/2021/05/Mask-Group-34-489x645.png?format=auto&width=489
+4. https://www.kxlife.co.uk/propeller/uploads/2021/05/1450-7-1450x800.jpg?format=auto&width=1450
+5. https://www.kxlife.co.uk/propeller/uploads/2025/07/SCA14085-Enhanced-NR-800x450.jpeg?format=auto&width=800
+6. https://www.kxlife.co.uk/propeller/uploads/2021/04/Mask-Group-37.png?format=auto&width=420
+7. https://www.kxlife.co.uk/propeller/uploads/2021/05/Group-133-600x157.png?format=auto&width=600
+8. https://www.kxlife.co.uk/propeller/uploads/2021/05/KX-PT-4.png?format=auto&width=420
+9. https://www.kxlife.co.uk/propeller/uploads/2021/05/KX-Gym-402x445.png?format=auto&width=402
+10. https://www.kxlife.co.uk/propeller/uploads/2025/07/Screen-Shot-2025-07-15-at-21.32.22-800x450.png?format=auto&width=800
+
+============================================================
+
+============================================================
+SCHOOL NAME: Real wellbeing •
+WEBSITE: https://wellbeingpeople.com
+============================================================
+Ages: T | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT REAL WELLBEING •]
+Ben McGannan, the Founder and Managing Director of Wellbeing People, grew up in the family business (established in 1976) which manufactured bottling equipment. In 1989 (as main contractor to Perrier UK) the family engineering business produced the first bottling line in the UK, to wash, fill and cap the large containers that sit on top of a water cooler;  this was the birth of the water cooler industry in the UK. By 1992, Ben had set up Water for Work Ltd, as a trading division of the family business.  Over 27 years, Ben developed the company through organic growth, joint ventures, mergers, and acquisitions to become the largest independently owned water cooler company in the UK. In 2006, Ben initiated the move into wellbeing, developing an engagement model built around the Interactive Health Kiosk. The main aim of the business being to empower individuals to live a better healthier life. Building a team that was dedicated to achieving its goals, Wellbeing People grew to become a succ
+
+[PHILOSOPHY & ETHOS]
+By 1992, Ben had set up Water for Work Ltd, as a trading division of the family business.  Over 27 years, Ben developed the company through organic growth, joint ventures, mergers, and acquisitions to become the largest independently owned water cooler company in the UK. Building a team that was dedicated to achieving its goals, Wellbeing People grew to become a successful division of its parent company Water Wellbeing Ltd, delivering wellbeing programmes to businesses and communities throughout the UK and Europe.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: Keep up with the latest news and updates from Wellbeing People What is the Grindset and Why is it Draining Your Energy? The grindset is often described as a mindset built on constant doing, pushing for success while putting productivity ahead ......
+- Student Wellbeing: Keep up with the latest news and updates from Wellbeing People We’ve all had those days where we’re physically at our desks, but our minds are elsewhere, and our energy is hitting zero by mid-afternoon. That’s because holistic wellbeing isn't just ......
+- Academic Integration: Before your phone lights up and the world makes its demands. There’s a quiet window of opportunity to put aside a few minutes to shape your entire day.  Learning how ......
+- Competitive Pathway: Keep up with the latest news and updates from Wellbeing People What is the Grindset and Why is it Draining Your Energy? The grindset is often described as a mindset built on constant doing, pushing for success while putting productivity ahead ......
+- Facilities & Resources: Keep up with the latest news and updates from Wellbeing People What is the Grindset and Why is it Draining Your Energy? The grindset is often described as a mindset built on constant doing, pushing for success while putting productivity ahead ......
+- Ongoing Accountability: Keep up with the latest news and updates from Wellbeing People What is the Grindset and Why is it Draining Your Energy? The grindset is often described as a mindset built on constant doing, pushing for success while putting productivity ahead ......
+
+[IMAGES FOUND: 1]
+1. https://wellbeingpeople.com/wp-content/uploads/2025/04/A-conversation-with-Sreve-brown-V2.png
+
+============================================================
+
+============================================================
+SCHOOL NAME: Building AI-Ready People and AI-Resilient Organizations
+WEBSITE: https://centreforresilience.com
+============================================================
+Ages:  | Founded:  | City: London, UK
+Annual Fees: Contact School
+
+[ABOUT BUILDING AI-READY PEOPLE AND AI-RESILIENT ORGANIZATIONS]
+I am a Registered Psychotherapist and Board-Certified Executive Coach and have a private practice in Oakville, Ontario.  Through thousands of client hours and years of business experience in health and wellness coaching, corporate sales, and health care, I have successfully developed a niche in helping my clients build personal and professional resilience. My passion for coaching spans 30 years. I began my coaching career helping clients improve their fitness, health, and mental wellness in medical, government, school, and corporate settings. Today as a Executive Coach, I use my hybrid experience as a licensed psychotherapist to lend expertise to the development of resiliency through individual and team coaching, workshop facilitation and organizational resilience training. I share the lessons learned through my psychotherapy and coaching practice to help leaders build a resilient approach to life, especially in the face of our challenging new climate. In these uncertain and complicate
+
+[PHILOSOPHY & ETHOS]
+I have a master’s degree in psychology (clin.) and am a member of the College of Registered Psychotherapists of Ontario. I founded the Centre for Resilience in 2012 with a vision to create a safe and effective experience for my clients, helping them make positive changes and overcome challenges to live their best life.
+
+[OUTCOMES & DESTINATIONS]
+Information not found.
+
+[ADMISSIONS PROCESS]
+Refer to website for details.
+
+[PERFORMANCE METRICS]
+- Coaching Credentials: My passion for coaching spans 30 years. I began my coaching career helping clients improve their fitness, health, and mental wellness in medical, government, school, and corporate settings. Today as a Executive Coach, I use my hybrid experience as a licensed psychotherapist to lend expertise to the ...
+- Student Wellbeing: I am a Registered Psychotherapist and Board-Certified Executive Coach and have a private practice in Oakville, Ontario.  Through thousands of client hours and years of business experience in health and wellness coaching, corporate sales, and health care, I have successfully developed a niche in help...
+- Academic Integration: I am a Registered Psychotherapist and Board-Certified Executive Coach and have a private practice in Oakville, Ontario.  Through thousands of client hours and years of business experience in health and wellness coaching, corporate sales, and health care, I have successfully developed a niche in help...
+- Competitive Pathway: I am a Registered Psychotherapist and Board-Certified Executive Coach and have a private practice in Oakville, Ontario.  Through thousands of client hours and years of business experience in health and wellness coaching, corporate sales, and health care, I have successfully developed a niche in help...
+- Facilities & Resources: The core modalities that I use to support my therapy clients are Cognitive Behavioral Therapy (CBT), Relational Life Therapy (RLT), and Mindfulness Based Stress Reduction (MBSR). My therapeutic approach draws from my training in Adlerian Psychology, Positive Psychology, Buddhist Psychology, Interper...
+- Ongoing Accountability: I am a Registered Psychotherapist and Board-Certified Executive Coach and have a private practice in Oakville, Ontario.  Through thousands of client hours and years of business experience in health and wellness coaching, corporate sales, and health care, I have successfully developed a niche in help...
+
+[IMAGES FOUND: 2]
+1. https://centreforresilience.com/wp-content/uploads/2025/12/stephanie-tenhaeff-about-1.png
+2. https://centreforresilience.com/wp-content/uploads/2025/12/stephanie-tenhaeff-hero.png
+
+============================================================
